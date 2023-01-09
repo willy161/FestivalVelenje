@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FestivalVelenje", "FestivalVelenje.csproj", "{D6BDA30F-31F6-442C-AA3B-ED4E13526386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BDA30F-31F6-442C-AA3B-ED4E13526386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BDA30F-31F6-442C-AA3B-ED4E13526386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BDA30F-31F6-442C-AA3B-ED4E13526386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BDA30F-31F6-442C-AA3B-ED4E13526386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0596277-289F-4ED5-B397-395DF17FF183}
+	EndGlobalSection
+EndGlobal
